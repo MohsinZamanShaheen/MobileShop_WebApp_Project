@@ -1,0 +1,1038 @@
+[
+    {
+      "idx": 0,
+      "name": "LG TV",
+      "image": "tele.jpeg",
+      "new_price": 150,
+      "refitted_price": 80,
+      "used_price": 50,
+      "description": "Televisió d'LG amb un gran rang dinàmic de colors.",
+      "new_sellers": [
+        {
+          "username": "User1",
+          "valoration": 3.5,
+          "comment": "hgithog6oioioioi",
+          "price": 150
+        },
+        {
+          "username": "User2",
+          "valoration": 4,
+          "comment": "hgithourigioioi",
+          "price": 170
+        },
+        {
+          "username": "User3",
+          "valoration": 5,
+          "comment": "hgijjjjjjjjjjjjjthourigioioi",
+          "price": 200
+        }
+      ],
+      "refurbished_sellers": [
+        {
+          "username": "User1",
+          "valoration": 3.5,
+          "comment": "hgithog6oioioioi",
+          "price": 80
+        },
+        {
+          "username": "User2",
+          "valoration": 4,
+          "comment": "hgithourigioioi",
+          "price": 100
+        },
+        {
+          "username": "User3",
+          "valoration": 5,
+          "comment": "hgijjjjjjjjjjjjjthourigioioi",
+          "price": 120
+        }
+      ],
+      "used_sellers": [
+        {
+          "username": "User1",
+          "valoration": 3.5,
+          "comment": "hgithog6oioioioi",
+          "price": 50
+        },
+        {
+          "username": "User2",
+          "valoration": 4,
+          "comment": "hgithourigioioi",
+          "price": 70
+        },
+        {
+          "username": "User3",
+          "valoration": 5,
+          "comment": "hgijjjjjjjjjjjjjthourigioioi",
+          "price": 100
+        }
+      ]
+    },
+    {
+      "idx": 1,
+      "name": "Desktop PC",
+      "image": "pc.jpg",
+      "new_price": 500,
+      "refitted_price": 200,
+      "used_price": 100,
+      "description": "Televisió d'LG amb un gran rang dinàmic de colors.",
+      "new_sellers": [
+      {
+      "username": "Venedor 1",
+      "valoration": 3.5,
+      "comment": "Enviat des de Barcelona",
+      "price": 500
+      },
+      {
+      "username": "Vendeor 2",
+      "valoration": 4,
+      "comment": "S'enviarà en 5 dies laborals",
+      "price": 600
+      },
+      {
+      "username": "Venedor 3",
+      "valoration": 5,
+      "comment": "",
+      "price": 200
+      }
+      ],
+      "refurbished_sellers": [
+      {
+      "username": "User1",
+      "valoration": 3.5,
+      "comment": "Esta com nou",
+      "price": 200
+      },
+      {
+      "username": "User2",
+      "valoration": 4,
+      "comment": "garantia de 2 mesos",
+      "price": 230
+      },
+      {
+      "username": "User3",
+      "valoration": 5,
+      "comment": "Venta per una rallada des de fabricació",
+      "price": 270
+      }
+      ],
+      "used_sellers": [
+      {
+      "username": "User1",
+      "valoration": 3.5,
+      "comment": "Molt bon producte, molt potent",
+      "price": 100
+      },
+      {
+      "username": "User2",
+      "valoration": 4,
+      "comment": "Encara funciona perfectament",
+      "price": 120
+      },
+      {
+      "username": "User3",
+      "valoration": 5,
+      "comment": "El venc perquè m'he comprat un de més potent",
+      "price": 150
+      }
+      ]
+      },
+      {
+      "idx": 2,
+      "name": "Xiaomi",
+      "image": "smartphone.jpg",
+      "new_price": 300,
+      "refitted_price": 245,
+      "used_price": 120,
+      "description": "Smartphone de gama alta amb càmera de gran qualitat.",
+      "new_sellers": [
+      {
+      "username": "Venedor 1",
+      "valoration": 4.5,
+      "comment": "Entrega ràpida i embalatge cuidat",
+      "price": 300
+      },
+      {
+      "username": "Vendeor 2",
+      "valoration": 4.2,
+      "comment": "Garantia de 2 anys",
+      "price": 320
+      },
+      {
+      "username": "Venedor 3",
+      "valoration": 4.8,
+      "comment": "Atenció al client de primera classe",
+      "price": 400
+      }
+      ],
+      "refurbished_sellers": [
+      {
+      "username": "User1",
+      "valoration": 4,
+      "comment": "Completament reformat i sense marques d'ús",
+      "price": 245
+      },
+      {
+      "username": "User2",
+      "valoration": 4.5,
+      "comment": "Garantia de 1 any",
+      "price": 220
+      },
+      {
+      "username": "User3",
+      "valoration": 4.2,
+      "comment": "Algunes petites marques d'ús, però funcionament perfecte",
+      "price": 220
+      }
+      ],
+      "used_sellers": [
+      {
+      "username": "User1",
+      "valoration": 4.2,
+      "comment": "Bona relació qualitat-preu",
+      "price": 120
+      },
+      {
+      "username": "User2",
+      "valoration": 3.8,
+      "comment": "Algunes petites limitacions, però encara útil",
+      "price": 100
+      },
+      {
+      "username": "User3",
+      "valoration": 4,
+      "comment": "L'he canviat per un model més nou",
+      "price": 70
+      }
+      ]
+      },
+      {
+      "idx": 3,
+      "name": "Smart TV",
+      "image": "tv.jpeg",
+      "new_price": 1200,
+      "refitted_price": 800,
+      "used_price": 600,
+      "description": "Televisor amb resolució 4K i tecnologia de pantalla avançada.",
+      "new_sellers": [
+      {
+      "username": "Venedor 1",
+      "valoration": 4.8,
+      "comment": "Imatge nítida i colors vibrants",
+      "price": 1200
+      },
+      {
+      "username": "Vendeor 2",
+      "valoration": 4.5,
+      "comment": "Connexió fàcil a dispositius externs",
+      "price": 1300
+      },
+      {
+      "username": "Venedor 3",
+      "valoration": 4.2,
+      "comment": "Grans prestacions a un preu raonable",
+      "price": 1100
+      }
+      ],
+      "refurbished_sellers": [
+      {
+      "username": "User1",
+      "valoration": 4.5,
+      "comment": "Reformat amb pantalla en perfecte estat",
+      "price": 800
+      },
+      {
+      "username": "User2",
+      "valoration": 4,
+      "comment": "Garantia de 6 mesos",
+      "price": 850
+      },
+      {
+      "username": "User3",
+      "valoration": 4.2,
+      "comment": "Algunes marques d'ús, però sense afectar el rendiment",
+      "price": 780
+      }
+      ],
+      "used_sellers": [
+      {
+      "username": "User1",
+      "valoration": 4.2,
+      "comment": "Bon preu i qualitat d'imatge decent",
+      "price": 600
+      },
+      {
+      "username": "User2",
+      "valoration": 3.8,
+      "comment": "Algunes limitacions, però funcional",
+      "price": 620
+      },
+      {
+      "username": "User3",
+      "valoration": 4.5,
+      "comment": "L'he canviat per un model més gran",
+      "price": 570
+      }
+      ]
+      },
+      {
+      "idx": 4,
+      "name": "JVC Headphones",
+      "image": "headphones.jpeg",
+      "new_price": 200,
+      "refitted_price": 120,
+      "used_price": 80,
+      "description": "Auriculars inalàmbrics amb cancel·lació de soroll.",
+      "new_sellers": [
+      {
+      "username": "Venedor 1",
+      "valoration": 4.5,
+      "comment": "Excel·lent qualitat de so",
+      "price": 200
+      },
+      {
+      "username": "Vendeor 2",
+      "valoration": 4.2,
+      "comment": "Bona autonomia de bateria",
+      "price": 220
+      },
+      {
+      "username": "Venedor 3",
+      "valoration": 4.8,
+      "comment": "Còmodes i lleugers",
+      "price": 180
+      }
+      ],
+      "refurbished_sellers": [
+      {
+      "username": "User1",
+      "valoration": 4,
+      "comment": "Reformat i en bon estat",
+      "price": 120
+      },
+      {
+      "username": "User2",
+      "valoration": 4.2,
+      "comment": "Garantia de 3 mesos",
+      "price": 140
+      },
+      {
+      "username": "User3",
+      "valoration": 4.5,
+      "comment": "Algunes marques d'ús, però sonoritat excel·lent",
+      "price": 100
+      }
+      ],
+      "used_sellers": [
+      {
+      "username": "User1",
+      "valoration": 3.8,
+      "comment": "Preu raonable i qualitat acceptable",
+      "price": 80
+      },
+      {
+      "username": "User2",
+      "valoration": 4,
+      "comment": "Algunes limitacions, però encara funcionen bé",
+      "price": 90
+      },
+      {
+      "username": "User3",
+      "valoration": 4.2,
+      "comment": "He comprat un altre model més nou",
+      "price": 70
+      }
+      ]
+      },
+      {
+      "idx": 5,
+      "name": "Camera",
+      "image": "camera.png",
+      "new_price": 1500,
+      "refitted_price": 900,
+      "used_price": 700,
+      "description": "Càmera digital amb resolució 20MP i lents intercanviables.",
+      "new_sellers": [
+      {
+      "username": "Venedor 1",
+      "valoration": 4.8,
+      "comment": "Qualitat d'imatge excepcional",
+      "price": 1500
+      },
+      {
+      "username": "Vendeor 2",
+      "valoration": 4.5,
+      "comment": "Facilitat d'ús i gran versatilitat",
+      "price": 1600
+      },
+      {
+      "username": "Venedor 3",
+      "valoration": 4.2,
+      "comment": "Tecnologia de punta a un preu competitiu",
+      "price": 1400
+      }
+      ],
+      "refurbished_sellers": [
+      {
+      "username": "User1",
+      "valoration": 4.5,
+      "comment": "Reformat i amb rendiment òptim",
+      "price": 900
+      },
+      {
+      "username": "User2",
+      "valoration": 4,
+      "comment": "Garantia de 6 mesos",
+      "price": 950
+      },
+      {
+      "username": "User3",
+      "valoration": 4.2,
+      "comment": "Algunes petites marques d'ús, però imatges de qualitat",
+      "price": 850
+      }
+      ],
+      "used_sellers": [
+      {
+      "username": "User1",
+      "valoration": 4.2,
+      "comment": "Bona càmera a un preu raonable",
+      "price": 700
+      },
+      {
+      "username": "User2",
+      "valoration": 3.8,
+      "comment": "Algunes limitacions, però encara útil",
+      "price": 750
+      },
+      {
+      "username": "User3",
+      "valoration": 4,
+      "comment": "L'he canviat per un model més recent",
+      "price": 650
+      }
+      ]
+      },
+      {
+      "idx": 6,
+      "name": "Laptop",
+      "image": "laptop.jpeg",
+      "new_price": 1800,
+      "refitted_price": 1200,
+      "used_price": 900,
+      "description": "Portàtil de gran rendiment amb pantalla tàctil.",
+      "new_sellers": [
+      {
+      "username": "Venedor 1",
+      "valoration": 4.5,
+      "comment": "Processador ràpid i gran capacitat de memòria",
+      "price": 1800
+      },
+      {
+      "username": "Vendeor 2",
+      "valoration": 4.2,
+      "comment": "Disseny elegant i durabilitat",
+      "price": 1900
+      },
+      {
+      "username": "Venedor 3",
+      "valoration": 4.8,
+      "comment": "Pantalla de qualitat i bateria de llarga durada",
+      "price": 1700
+      }
+      ],
+      "refurbished_sellers": [
+      {
+      "username": "User1",
+      "valoration": 4.2,
+      "comment": "Reformat i en perfecte estat",
+      "price": 1200
+      },
+      {
+      "username": "User2",
+      "valoration": 4.5,
+      "comment": "Garantia de 1 any",
+      "price": 1300
+      },
+      {
+      "username": "User3",
+      "valoration": 4,
+      "comment": "Algunes petites marques d'ús, però funcionament excel·lent",
+      "price": 1100
+      }
+      ],
+      "used_sellers": [
+      {
+      "username": "User1",
+      "valoration": 3.8,
+      "comment": "Bon preu i rendiment decent",
+      "price": 900
+      },
+      {
+      "username": "User2",
+      "valoration": 4,
+      "comment": "Funciona bé per a tasques diàries",
+      "price": 950
+      },
+      {
+      "username": "User3",
+      "valoration": 4.2,
+      "comment": "L'he canviat per un model més recent",
+      "price": 850
+      }
+      ]
+      },
+      {
+      "idx": 7,
+      "name": "Tablet",
+      "image": "tablet.webp",
+      "new_price": 800,
+      "refitted_price": 500,
+      "used_price": 350,
+      "description": "Tableta tàctil amb pantalla de gran resolució.",
+      "new_sellers": [
+      {
+      "username": "Venedor 1",
+      "valoration": 4.8,
+      "comment": "Qualitat d'imatge impressionant",
+      "price": 800
+      },
+      {
+      "username": "Vendeor 2",
+      "valoration": 4.5,
+      "comment": "Memòria ampliable i processador ràpid",
+      "price": 900
+      },
+      {
+      "username": "Venedor 3",
+      "valoration": 4.2,
+      "comment": "Gran durada de bateria",
+      "price": 750
+      }
+      ],
+      "refurbished_sellers": [
+      {
+      "username": "User1",
+      "valoration": 4.5,
+      "comment": "Reformat i en bon estat",
+      "price": 500
+      },
+      {
+      "username": "User2",
+      "valoration": 4,
+      "comment": "Garantia de 6 mesos",
+      "price": 550
+      },
+      {
+      "username": "User3",
+      "valoration": 4.2,
+      "comment": "Algunes marques d'ús, però funcional",
+      "price": 450
+      }
+      ],
+      "used_sellers": [
+      {
+      "username": "User1",
+      "valoration": 4.2,
+      "comment": "Bon preu i funciona bé",
+      "price": 350
+      },
+      {
+      "username": "User2",
+      "valoration": 3.8,
+      "comment": "Algunes limitacions, però encara útil",
+      "price": 380
+      },
+      {
+      "username": "User3",
+      "valoration": 4,
+      "comment": "He comprat un altre model més nou",
+      "price": 320
+      }
+      ]
+      },
+      {
+      "idx": 8,
+      "name": "Smartwatch",
+      "image": "smartwatch.jpg",
+      "new_price": 400,
+      "refitted_price": 250,
+      "used_price": 150,
+      "description": "Relotge intel·ligent amb seguiment de fitness i notificacions.",
+      "new_sellers": [
+      {
+      "username": "Venedor 1",
+      "valoration": 4.5,
+      "comment": "Gran qualitat i durabilitat",
+      "price": 400
+      },
+      {
+      "username": "Vendeor 2",
+      "valoration": 4.2,
+      "comment": "Funcionalitats avançades i bateria de llarga durada",
+      "price": 420
+      },
+      {
+      "username": "Venedor 3",
+      "valoration": 4.8,
+      "comment": "Disseny modern i còmode",
+      "price": 380
+      }
+      ],
+      "refurbished_sellers": [
+      {
+      "username": "User1",
+      "valoration": 4.2,
+      "comment": "Reformat i en perfecte estat",
+      "price": 250
+      },
+      {
+      "username": "User2",
+      "valoration": 4.5,
+      "comment": "Garantia de 3 mesos",
+      "price": 270
+      },
+      {
+      "username": "User3",
+      "valoration": 4,
+      "comment": "Algunes petites marques d'ús, però funcionament òptim",
+      "price": 220
+      }
+      ],
+      "used_sellers": [
+      {
+      "username": "User1",
+      "valoration": 3.8,
+      "comment": "Preu raonable i funcional",
+      "price": 150
+      },
+      {
+      "username": "User2",
+      "valoration": 4,
+      "comment": "Algunes limitacions, però encara útil",
+      "price": 160
+      },
+      {
+      "username": "User3",
+      "valoration": 4.2,
+      "comment": "L'he canviat per un model més recent",
+      "price": 130
+      }
+      ]
+      },
+
+  {
+    "idx": 9,
+    "name": "Lavadora de carga frontal",
+    "image": "lavadora1.avif",
+    "new_price": 800,
+    "refitted_price": 500,
+    "used_price": 300,
+    "description": "Lavadora de carga frontal con capacidad de 8 kg y múltiples programas de lavado.",
+    "new_sellers": [
+      {
+        "username": "Vendedor1",
+        "valoration": 4.5,
+        "comment": "Envío gratis",
+        "price": 800
+      },
+      {
+        "username": "Vendedor2",
+        "valoration": 4.8,
+        "comment": "Entrega rápida",
+        "price": 850
+      },
+      {
+        "username": "Vendedor3",
+        "valoration": 4.6,
+        "comment": "Alta eficiencia energética",
+        "price": 780
+      }
+    ],
+    "refurbished_sellers": [
+      {
+        "username": "Usuario1",
+        "valoration": 3.7,
+        "comment": "Pequeños rasguños en el exterior",
+        "price": 500
+      },
+      {
+        "username": "Usuario2",
+        "valoration": 4.1,
+        "comment": "Garantía de 3 meses",
+        "price": 530
+      },
+      {
+        "username": "Usuario3",
+        "valoration": 4.4,
+        "comment": "Como nueva",
+        "price": 480
+      }
+    ],
+    "used_sellers": [
+      {
+        "username": "Usuario4",
+        "valoration": 3.9,
+        "comment": "Funciona perfectamente",
+        "price": 300
+      },
+      {
+        "username": "Usuario5",
+        "valoration": 4.3,
+        "comment": "Buen estado general",
+        "price": 320
+      },
+      {
+        "username": "Usuario6",
+        "valoration": 4.7,
+        "comment": "Buena relación calidad-precio",
+        "price": 350
+      }
+    ]
+  },
+  {
+    "idx": 10,
+    "name": "Lavadora de carga superior",
+    "image": "lavadora2.jpg",
+    "new_price": 700,
+    "refitted_price": 400,
+    "used_price": 250,
+    "description": "Lavadora de carga superior con capacidad de 7 kg y función de autolimpieza.",
+    "new_sellers": [
+      {
+        "username": "Vendedor4",
+        "valoration": 4.2,
+        "comment": "Envío internacional",
+        "price": 700
+      },
+      {
+        "username": "Vendedor5",
+        "valoration": 4.6,
+        "comment": "Entrega en 3 días",
+        "price": 750
+      },
+      {
+        "username": "Vendedor6",
+        "valoration": 4.5,
+        "comment": "Gran calidad",
+        "price": 680
+      }
+    ],
+    "refurbished_sellers": [
+      {
+        "username": "Usuario7",
+        "valoration": 3.4,
+        "comment": "Pequeñas marcas de uso",
+        "price": 400
+      },
+      {
+        "username": "Usuario8",
+        "valoration": 3.9,
+        "comment": "Garantía de 6 meses",
+        "price": 430
+      },
+      {
+        "username": "Usuario9",
+        "valoration": 4.2,
+        "comment": "Reacondicionada",
+        "price": 380
+      }
+    ],
+    "used_sellers": [
+      {
+        "username": "Usuario10",
+        "valoration": 4.1,
+        "comment": "Funciona correctamente",
+        "price": 250
+      },
+      {
+        "username": "Usuario11",
+        "valoration": 4.5,
+        "comment": "Buen estado general",
+        "price": 270
+      },
+      {
+        "username": "Usuario12",
+        "valoration": 4.8,
+        "comment": "Buena capacidad de carga",
+        "price": 300
+      }
+    ]
+  },
+  {
+    "idx": 11,
+    "name": "Nevera",
+    "image": "nevera.jpg",
+    "new_price": 1500,
+    "refitted_price": 1200,
+    "used_price": 900,
+    "description": "Nevera de doble porta amb capacitat de 400 litres i sistema de descongelació automàtica.",
+    "new_sellers": [
+      {
+        "username": "Venedor1",
+        "valoration": 4.8,
+        "comment": "Entrega gratuïta",
+        "price": 1500
+      },
+      {
+        "username": "Venedor2",
+        "valoration": 4.9,
+        "comment": "Garantia de 2 anys",
+        "price": 1600
+      },
+      {
+        "username": "Venedor3",
+        "valoration": 4.7,
+        "comment": "Eficiència energètica A+",
+        "price": 1400
+      }
+    ],
+    "refurbished_sellers": [
+      {
+        "username": "Usuari1",
+        "valoration": 4.1,
+        "comment": "Lleus marques d'ús",
+        "price": 1200
+      },
+      {
+        "username": "Usuari2",
+        "valoration": 4.4,
+        "comment": "Garantia de 6 mesos",
+        "price": 1300
+      },
+      {
+        "username": "Usuari3",
+        "valoration": 4.3,
+        "comment": "Recondicionada",
+        "price": 1100
+      }
+    ],
+    "used_sellers": [
+      {
+        "username": "Usuari4",
+        "valoration": 4.2,
+        "comment": "Funciona perfectament",
+        "price": 900
+      },
+      {
+        "username": "Usuari5",
+        "valoration": 4.6,
+        "comment": "Bona condició general",
+        "price": 1000
+      },
+      {
+        "username": "Usuari6",
+        "valoration": 4.8,
+        "comment": "Bona relació qualitat-preu",
+        "price": 1100
+      }
+    ]
+  },
+  {
+  "idx": 12,
+  "name": "Cafetera",
+  "image": "cafetera.jpg",
+  "new_price": 100,
+  "refitted_price": 70,
+  "used_price": 50,
+  "description": "Cafetera de càpsules amb sistema d'extracció ràpida i espumador de llet incorporat.",
+  "new_sellers": [
+    {
+      "username": "Venedor4",
+      "valoration": 4.4,
+      "comment": "Inclou 20 càpsules de cafè",
+      "price": 100
+    },
+    {
+      "username": "Venedor5",
+      "valoration": 4.7,
+      "comment": "Garantia de 1 any",
+      "price": 110
+    },
+    {
+      "username": "Venedor6",
+      "valoration": 4.5,
+      "comment": "Disseny compacte",
+      "price": 90
+    }
+  ],
+  "refurbished_sellers": [
+    {
+      "username": "Usuari7",
+      "valoration": 4.2,
+      "comment": "Reparada i netejada",
+      "price": 70
+    },
+    {
+      "username": "Usuari8",
+      "valoration": 4.5,
+      "comment": "Garantia de 3 mesos",
+      "price": 80
+    },
+    {
+      "username": "Usuari9",
+      "valoration": 4.3,
+      "comment": "Com nova",
+      "price": 60
+    }
+  ],
+  "used_sellers": [
+    {
+      "username": "Usuari10",
+      "valoration": 4.1,
+      "comment": "Funciona perfectament",
+      "price": 50
+    },
+    {
+      "username": "Usuari11",
+      "valoration": 4.4,
+      "comment": "Bon estat",
+      "price": 55
+    },
+    {
+      "username": "Usuari12",
+      "valoration": 4.7,
+      "comment": "Bona opció econòmica",
+      "price": 60
+    }
+  ]
+},
+{
+  "idx": 13,
+  "name": "PS4",
+  "image": "ps4.jpg",
+  "new_price": 300,
+  "refitted_price": 250,
+  "used_price": 200,
+  "description": "Consola de videojocs PS4 amb capacitat de 1 TB i suport per a jocs en línia.",
+  "new_sellers": [
+    {
+      "username": "Venedor7",
+      "valoration": 4.6,
+      "comment": "Inclou un controlador addicional",
+      "price": 300
+    },
+    {
+      "username": "Venedor8",
+      "valoration": 4.8,
+      "comment": "Garantia de 1 any",
+      "price": 320
+    },
+    {
+      "username": "Venedor9",
+      "valoration": 4.7,
+      "comment": "Excel·lent rendiment gràfic",
+      "price": 280
+    }
+  ],
+  "refurbished_sellers": [
+    {
+      "username": "Usuari13",
+      "valoration": 4.3,
+      "comment": "Reparada i netejada",
+      "price": 250
+    },
+    {
+      "username": "Usuari14",
+      "valoration": 4.5,
+      "comment": "Garantia de 6 mesos",
+      "price": 260
+    },
+    {
+      "username": "Usuari15",
+      "valoration": 4.4,
+      "comment": "Com nova",
+      "price": 240
+    }
+  ],
+  "used_sellers": [
+    {
+      "username": "Usuari16",
+      "valoration": 4.2,
+      "comment": "Funciona perfectament",
+      "price": 200
+    },
+    {
+      "username": "Usuari17",
+      "valoration": 4.4,
+      "comment": "Bona condició general",
+      "price": 220
+    },
+    {
+      "username": "Usuari18",
+      "valoration": 4.6,
+      "comment": "Bona opció econòmica"
+
+    }
+  ]
+  },
+  {
+    "idx": 14,
+    "name": "iphone 11",
+    "image": "iphone11.jpg",
+    "new_price": 1000,
+    "refitted_price": 600,
+    "used_price": 450,
+    "description": "Movil de gama alta amb càmera de gran qualitat.",
+    "new_sellers": [
+    {
+    "username": "Venedor 1",
+    "valoration": 4.5,
+    "comment": "Entrega ràpida i embalatge cuidat",
+    "price": 1000
+    },
+    {
+    "username": "Vendeor 2",
+    "valoration": 4.2,
+    "comment": "Garantia de 2 anys",
+    "price": 1100
+    },
+    {
+    "username": "Venedor 3",
+    "valoration": 4.8,
+    "comment": "Atenció al client de primera classe",
+    "price": 900
+    }
+    ],
+    "refurbished_sellers": [
+    {
+    "username": "User1",
+    "valoration": 4,
+    "comment": "Completament reformat i sense marques d'ús",
+    "price": 600
+    },
+    {
+    "username": "User2",
+    "valoration": 4.5,
+    "comment": "Garantia de 1 any",
+    "price": 650
+    },
+    {
+    "username": "User3",
+    "valoration": 4.2,
+    "comment": "Algunes petites marques d'ús, però funcionament perfecte",
+    "price": 580
+    }
+    ],
+    "used_sellers": [
+    {
+    "username": "User1",
+    "valoration": 4.2,
+    "comment": "Bona relació qualitat-preu",
+    "price": 400
+    },
+    {
+    "username": "User2",
+    "valoration": 3.8,
+    "comment": "Algunes petites limitacions, però encara útil",
+    "price": 420
+    },
+    {
+    "username": "User3",
+    "valoration": 4,
+    "comment": "L'he canviat per un model més nou",
+    "price": 380
+    }
+    ]
+    }  
+  ]

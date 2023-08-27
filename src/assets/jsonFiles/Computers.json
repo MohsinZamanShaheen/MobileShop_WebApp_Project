@@ -1,0 +1,71 @@
+[
+    {
+        "idx": 0,
+        "name": "Desktop PC",
+        "image": "tele.jpeg",
+        "new_price": 500,
+        "refitted_price": 200,
+        "used_price": 100,
+        "description": "Televisió d'LG amb un gran rang dinàmic de colors.",
+        "new_sellers": [
+          {
+            "username": "Venedor 1",
+            "valoration": 3.5,
+            "comment": "Enviat des de Barcelona",
+            "price": 500
+          },
+          {
+            "username": "Vendeor 2",
+            "valoration": 4,
+            "comment": "S'enviarà en 5 dies laborals",
+            "price": 600
+          },
+          {
+            "username": "Venedor 3",
+            "valoration": 5,
+            "comment": "",
+            "price": 200
+          }
+        ],
+        "refurbished_sellers": [
+          {
+            "username": "User1",
+            "valoration": 3.5,
+            "comment": "Esta com nou",
+            "price": 200
+          },
+          {
+            "username": "User2",
+            "valoration": 4,
+            "comment": "garantia de 2 mesos",
+            "price": 230
+          },
+          {
+            "username": "User3",
+            "valoration": 5,
+            "comment": "Venta per una rallada des de fabricació",
+            "price": 270
+          }
+        ],
+        "used_sellers": [
+          {
+            "username": "User1",
+            "valoration": 3.5,
+            "comment": "Molt bon producte, molt potent",
+            "price": 100
+          },
+          {
+            "username": "User2",
+            "valoration": 4,
+            "comment": "Encara funciona perfectament",
+            "price": 120
+          },
+          {
+            "username": "User3",
+            "valoration": 5,
+            "comment": "El venc perquè m'he comprat un de més potent",
+            "price": 150
+          }
+        ]
+      }
+]
